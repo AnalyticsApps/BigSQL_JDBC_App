@@ -2,6 +2,8 @@
 
 @Author=Nisanth Simon
 
+The compiled jar can be downloaded from https://github.com/AnalyticsApps/BigSQL_JDBC_App/blob/master/target/sample-jdbc-app-1.0-SNAPSHOT.jar
+
 
 Steps to run the project
 
